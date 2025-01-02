@@ -1,2 +1,2 @@
 # Haust-Network-AutoTx
-Auto Haust network transactions to various wallets
+Auto Haust network transactions to multiple wallets
